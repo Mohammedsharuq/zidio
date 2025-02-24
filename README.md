@@ -1,4 +1,4 @@
-# zidio
+# zudio
 🎭 AI Task Optimizer: Emotion-Aware Task Recommendation System
 📌 About
 AI Task Optimizer is an intelligent emotion recognition and task recommendation system that enhances workplace productivity and well-being. Using real-time facial emotion analysis and text sentiment detection, the system identifies employee moods and suggests personalized tasks accordingly.
